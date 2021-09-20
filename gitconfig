@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = moulayam16@gmail.com
+	name = abdellah mallouk
